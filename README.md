@@ -86,7 +86,7 @@ A comprehensive productivity and savings tracking application with modern UI/UX 
 
 ##  Highlights
 
-- ✅ **8+ years** of software engineering experience
+- ✅ **10+ years** of software engineering experience
 - ✅ Worked with top companies: **Cisco, Ericsson, Aricent**
 - ✅ Expertise in **Java, Microservices, Cloud, DevOps**
 - ✅ Built production-grade applications serving enterprise clients
