@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-Professionally qualified Software Engineer specializing in API & microservices development and cloud deployment. Currently working at **Cisco Systems** with 8+ years of experience building scalable solutions and leveraging modern technologies.
+Professionally qualified Software Engineer specializing in API & microservices development and cloud deployment. Currently working at **Cisco Systems** with 10+ years of experience building scalable solutions and leveraging modern technologies.
 
 - 🔭 Currently working on **Cisco Secure Email Encryption**
 - 🌱 Passionate about building scalable microservices and cloud-native applications
